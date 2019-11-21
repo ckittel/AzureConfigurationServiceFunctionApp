@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ToggleFa": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionStrings_AppConfig": "Endpoint=https://confsvc-ckittel.azconfig.io;Id=R1qx-l2-s0:F7QjI+Nt1SCKvRhUpnC7;Secret=UHFzCv65+0/jPXkqNXKjNebRWmlGqi+kp3MJsLtEXno="
+      }
+    }
+  }
+}
